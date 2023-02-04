@@ -1,11 +1,12 @@
 .App {
   width: 400px;
-  height: 500px;
+  height: 250px;
   background: #773344;
   margin: 0 auto;
   border-radius: 5px;
   box-shadow: 2px 17px 9px rgba(0, 0, 0, .6);
   color: #fff;
+  padding: 35px;
 }
 
 h1 {
@@ -16,7 +17,7 @@ h1 {
 }
 
 
-input, textarea, select {
+/*input, textarea, select {
   color: #2f192E;
   margin: 5px auto;
   display: block;
@@ -33,6 +34,6 @@ label {
     color: #fff;
     font-size: 20px;
 
-}
+}*/
 
 
